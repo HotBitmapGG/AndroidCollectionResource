@@ -330,6 +330,54 @@ https://github.com/daimajia/AnimationEasingFunctions
 
 https://github.com/gabrielemariotti/RecyclerViewItemAnimators
 
+81.[干货] Glow Android 优化实践
+
+http://www.jianshu.com/p/a8b5278cdbcd
+
+82.Android面试题大全
+
+https://github.com/HotBitmapGG/LearningNotes
+
+83.安卓学习笔记
+
+https://github.com/HotBitmapGG/AndroidNote
+
+84.README文件语法解读，即Github Flavored Markdown语法介绍
+
+https://github.com/HotBitmapGG/README
+
+85.A diagram of the Android Activity / Fragment lifecycle(重点)
+
+https://github.com/HotBitmapGG/android-lifecycle
+
+86.通过对流行的优质android开源项目分析、学习、仿写，最终理解，不仅帮你掌握最新的android技术，更能让你理解开源项目的精华之处，这些都是你成为一名高级android developer必不可少的
+
+https://github.com/HotBitmapGG/android-open-source-project-cracking
+
+87.Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具)
+
+https://github.com/HotBitmapGG/awesome-android-performance
+
+88.RxJava 和 Retrofit 结合使用的几个最常见使用方式举例
+
+https://github.com/HotBitmapGG/RxJavaSamples
+
+89.Android开发资源整理
+
+https://github.com/HotBitmapGG/AndroidResources
+
+90.本项目是本人个人博客上关于 拥抱 Android Studio 系列文章的 demo 工程，主要是为了方便读者联系上下文学习。
+
+https://github.com/HotBitmapGG/Embrace-Android-Studio-Demo
+
+91.Android Multi channel package tool （安卓多渠道打包工具）
+
+https://github.com/HotBitmapGG/MultiChannelPackageTool
+
+92.Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+
+https://github.com/HotBitmapGG/ResumeSample
+
 
 
 

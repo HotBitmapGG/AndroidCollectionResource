@@ -1,8 +1,11 @@
 # The Android Resource Collection
 
-收集整理了github上实用的Android开发资源合集汇总,持续更新中.
+[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)]() [![](https://img.shields.io/github/issues-pr-raw/cdnjs/cdnjs.svg)]()
+[![CocoaPods](https://img.shields.io/cocoapods/metrics/doc-percent/AFNetworking.svg)]() [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
 
 ![](https://github.com/HotBitmapGG/AndroidCollectionResource/blob/master/art/bg.jpg)
+
+收集整理了github上实用的Android开发资源合集汇总,持续更新中.
 
 
 1.程序员必备精品资源收集

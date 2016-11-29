@@ -1,6 +1,9 @@
 # The Android Resource Collection
 
 
+>收集github上实用的Android开发资源合集汇总,持续更新中.
+
+
 1.程序员必备精品资源收集
 
 https://github.com/zmywly8866/The-Android-Developer-Site-Navigation
@@ -326,6 +329,8 @@ https://github.com/daimajia/AnimationEasingFunctions
 80.RecycleView动画效果集合
 
 https://github.com/gabrielemariotti/RecyclerViewItemAnimators
+
+
 
 
 

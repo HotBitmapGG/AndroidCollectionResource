@@ -5,7 +5,6 @@
 
 ![](https://github.com/HotBitmapGG/AndroidCollectionResource/blob/master/art/bg.jpg)
 
-收集整理了github上实用的Android开发资源合集汇总,持续更新中.
 
 ---
 

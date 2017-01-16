@@ -419,6 +419,10 @@ https://github.com/ruijun/Android-Dev-Favorites
 
 https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
 
+101.Android开发中遇到的好的文章还有一些笔记
+
+https://github.com/w4lle/developnote
+
 ## About me
 
 [![Wercker](https://img.shields.io/badge/weibo-HotBitmapGG-blue.svg)](http://weibo.com/3223089177/profile?topnav=1&wvr=6&is_all=1)
